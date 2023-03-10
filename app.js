@@ -1,6 +1,6 @@
 
 function ders(){
-    const num = ['apple -> elppa','grap -> parg']
+    const num = ['apple -> elppa','grape -> eparg']
     console.log(num)
 }
 ders()
