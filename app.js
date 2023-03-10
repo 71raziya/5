@@ -1,14 +1,14 @@
 
 function ders(){
-    const num = ['apple -> elppa','grape -> eparg']
-    console.log(num)
+    const fruit = ['apple -> elppa','grape -> eparg']
+    console.log(fruit)
 }
 ders()
 
-function nbvs(){
-    const jol = [12,34,78,'=>'] 
-    const jik = [21,43,87]
-    const klj = [...jol, ...jik]
-    console.log(klj)
+function num(){
+    const num1 = [12,34,78,'=>'] 
+    const num2 = [21,43,87]
+    const nums = [...num1, ...num2]
+    console.log(nums)
 }
-nbvs()
+num()
